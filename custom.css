@@ -6,3 +6,8 @@ body {
 ul {
     list-style-type: square;
 }
+.image-top-right {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
